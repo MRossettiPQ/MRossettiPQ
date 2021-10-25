@@ -12,12 +12,11 @@
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```javascript
-object **Matheus** {
- val name = "Matheus Rossetti"
- val acknowledgements = {"WEB", "EMBARCADOS"}
+const **Matheus** {
+ name: "Matheus Rossetti",
+ acknowledgements: {"WEB", "EMBARCADOS"},
 
- let languages = {"Java", "JavaScript", "C/C++", "React"
- , "Quasar/Vue", "SQL", "PHP"}
+ languages: ["Java", "JavaScript", "C/C++", "React", "Quasar/Vue", "SQL", "PHP"],
 }
 ```
 
