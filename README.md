@@ -5,9 +5,9 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **SEU CURSO** no <a href="link da sua faculdade">SUA FACULDADE</a>.
-- 💼 &nbsp; Trabalhando como **ÁREA EM QUE VOCÊ TRABALHA** na <a href="LINK DA EMPRESA">EMPRESA</a>
-- 🌱 &nbsp; Aprendendo mais sobre **TECNOLOGIAS QUE VOCÊ ESTÁ APRENDENDO**.
+- 🎓 &nbsp; Estudando **Engenharia de Computação** no <a href="https://enc.ufsc.br/">UFSC</a>.
+- 💼 &nbsp; Trabalhando como **Desenvolvedor WEB** na <a href="https://www.linkedin.com/company/vulcan-solucoes/">Vulcan Soluções</a>
+- 🌱 &nbsp; Aprendendo mais sobre **Vue/Quasar, React, JS, Java**.
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -64,8 +64,9 @@ object **Matheus** {
 <br/>
 
 ## **GitHub Estatísticas**
-
-<div>
+</div style="width: 100vw; max-width: 1920px;">
+<div style="width: 100%; height: 100vh; max-height: 1080px; display: grid;
+justify-content: center; align-items: center; justify-items: center;background-color: #202024;">
   <a href="https://github.com/MRossettiPQ">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRossettiPQ&theme=midnight-purple&hide_langs_below=1" />
   </a>
@@ -73,6 +74,7 @@ object **Matheus** {
   <a href="https://github.com/MRossettiPQ">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=MRossettiPQ&theme=midnight-purple&show_icons=true" />
   </a>
+</div>
 </div>
 
 <br/>
